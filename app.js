@@ -26,17 +26,14 @@ const item1 = new Item({
     name: "Welcome to your todolist!"
 });
 
+
+
 const item2 = new Item({
-
-    name: "Vinay To-DO list app."
-});
-
-const item3 = new Item({
 
     name: "hey!"
 });
 
-const defaultItems = [item1, item2, item3];
+const defaultItems = [item1, item2];
 
 const listSchema = {
     name: String,
