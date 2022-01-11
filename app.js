@@ -28,12 +28,12 @@ const item1 = new Item({
 
 const item2 = new Item({
 
-    name: "Hit the + button to add a new item."
+    name: "Vinay To-DO list app."
 });
 
 const item3 = new Item({
 
-    name: "<-- Hit this to delete an item."
+    name: "hey!"
 });
 
 const defaultItems = [item1, item2, item3];
